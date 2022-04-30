@@ -201,6 +201,8 @@ body {
   }
 }
 .filters {
+
+  padding-top:1.2rem ;
   width: 100%;
   margin: unset auto;
 }
